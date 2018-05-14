@@ -1,0 +1,23 @@
+package conversor;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class Conversor {
+	private FileReader reader;
+	private BufferedReader br;
+
+	public Conversor() throws FileNotFoundException {
+		reader = new FileReader("/Users/diego/eclipse-workspace/Conversor/src/Silicon.csv");
+		br = new BufferedReader(reader);
+
+	}
+
+	public void procesamiento() throws IOException {
+		String str;
+		System.out.println(str = br.readLine());
+		str.indexOf(",");
+	}
+}

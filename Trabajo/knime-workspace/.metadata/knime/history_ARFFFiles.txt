@@ -1,0 +1,8 @@
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Practicas/Clustering/ex4data1.arff
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Practicas/Clustering
+/Users/diego/Dropbox/Universidad
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Practicas/TUTO WEKA KNIME 2/ex2data1.arff
+
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Practicas/Tuto WEKA KNIME/datasets/ex2data.arff
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Practicas/Tuto WEKA KNIME/datasets/ex1data2.arff
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Practicas/Tuto WEKA KNIME/datasets/ex1data1.arff

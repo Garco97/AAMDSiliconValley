@@ -1,0 +1,4 @@
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Trabajo/silicon-valley-diversity-data/SiliconPost.csv
+/Users/diego/eclipse-workspace/Conversor/src/SiliconBueno.csv
+/Users/diego/Desktop/Silicon.csv
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Trabajo/silicon-valley-diversity-data/Reveal_EEO1_for_2016.csv

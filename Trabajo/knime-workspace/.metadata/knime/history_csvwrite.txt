@@ -1,0 +1,2 @@
+/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Trabajo/silicon-valley-diversity-data/SiliconPre.csv
+/Users/diego/Desktop/Silicon.csv
