@@ -16,3 +16,4 @@
 //us_info-http\://update.knime.org/store/3.4-removed=true
 //us_info-http\://update.knime.org/store/3.5-removed=true
 eclipse.preferences.version=1
+org.knime.product.intro.intro=false

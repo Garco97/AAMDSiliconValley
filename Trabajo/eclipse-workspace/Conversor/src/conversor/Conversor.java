@@ -28,7 +28,6 @@ public class Conversor {
 		bw.write("company,race,gender,job_category\n");
 		for(int j = 0;j < 2940;j++) {
 			str = br.readLine();
-			System.out.println(str);
 			for(int i = 1; i < 10;i++) {
 				Character ch = str.charAt(str.length()-i);
 				if(ch.equals(',')){
@@ -40,8 +39,11 @@ public class Conversor {
 				aux = str.substring(index+1, str.length());
 				rep = Integer.parseInt(aux);
 				str = str.substring(0, index);
+
 				for(int i = 0; i<rep;i++) {
 					bw.write(str+"\n");
+					System.out.println(str);
+
 				}
 			}catch (StringIndexOutOfBoundsException e) {
 				System.out.println(j);

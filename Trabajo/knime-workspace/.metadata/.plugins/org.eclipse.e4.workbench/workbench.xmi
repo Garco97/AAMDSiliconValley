@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/TUTO2/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/TUTO2/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Ejercicio3/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Ejercicio3/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Semana12/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Semana12/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Ejercicio2/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Ejercicio2/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Ejercicio1/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Ejercicio1/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Trabajo%20Silicon%20Valley/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Trabajo%20Silicon%20Valley/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Association/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Association/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Clusteriiing/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Clusteriiing/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Clustering/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Clustering/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/KNIME_project/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/KNIME_project/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; tooltip=&quot;knime://LOCAL/Example%20Workflows/Basic%20Examples/Building%20a%20Simple%20Classifier/workflow.knime&quot;>&#xA;&lt;persistable uri=&quot;knime://LOCAL/Example%20Workflows/Basic%20Examples/Building%20a%20Simple%20Classifier/workflow.knime&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_ev-rIDDlEeiZ6PlqQZtl4w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_fESuQDDlEeiZ6PlqQZtl4w" width="1429" height="812">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_ev-rIDDlEeiZ6PlqQZtl4w" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_fESuQDDlEeiZ6PlqQZtl4w" x="1702" y="130" width="1920" height="1173">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -110,12 +110,6 @@
           <tags>removeOnHide</tags>
           <tags>activeOnClose</tags>
           <tags>active</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_6IEMUFeiEeiJPOLF0OG2AQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="2: TUTO2" iconURI="platform:/plugin/org.knime.workbench.editor/icons/knime.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.knime.workbench.editor.WorkflowEditor&quot; name=&quot;workflow.knime&quot; partName=&quot;2: TUTO2&quot; title=&quot;2: TUTO2&quot; tooltip=&quot;2: TUTO2&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;knime://LOCAL/TUTO2/workflow.knime&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.knime.workbench.editor.WorkflowEditor</tags>
-          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -402,7 +396,7 @@
     <bindings xmi:id="_excqwjDlEeiZ6PlqQZtl4w" keySequence="ALT+COMMAND+Q Q" command="_ewj5_TDlEeiZ6PlqQZtl4w">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_mx-D4VeuEeifgMiCk3Kr-A" keySequence="COMMAND+CTRL+F" command="_eyE84jDlEeiZ6PlqQZtl4w"/>
+    <bindings xmi:id="_WnV_MFqqEeiC8N1SojcumQ" keySequence="COMMAND+CTRL+F" command="_eyE84jDlEeiZ6PlqQZtl4w"/>
   </bindingTables>
   <bindingTables xmi:id="_exMzITDlEeiZ6PlqQZtl4w" elementId="org.eclipse.debug.ui.memory.abstractasynctablerendering" bindingContext="_ewoyejDlEeiZ6PlqQZtl4w">
     <bindings xmi:id="_exMzIjDlEeiZ6PlqQZtl4w" keySequence="COMMAND+G" command="_ewg2vjDlEeiZ6PlqQZtl4w"/>
@@ -515,7 +509,7 @@
     <bindings xmi:id="_exa1lTDlEeiZ6PlqQZtl4w" keySequence="CTRL+SPACE" command="_ewgPoDDlEeiZ6PlqQZtl4w"/>
   </bindingTables>
   <bindingTables xmi:id="_eyFj8TDlEeiZ6PlqQZtl4w" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_ev-rKTDlEeiZ6PlqQZtl4w">
-    <bindings xmi:id="_mx-q8FeuEeifgMiCk3Kr-A" keySequence="M1+W" command="_eyE85zDlEeiZ6PlqQZtl4w"/>
+    <bindings xmi:id="_WnWmQFqqEeiC8N1SojcumQ" keySequence="M1+W" command="_eyE85zDlEeiZ6PlqQZtl4w"/>
   </bindingTables>
   <bindingTables xmi:id="_fPKhgTDlEeiZ6PlqQZtl4w" bindingContext="_fPKhgDDlEeiZ6PlqQZtl4w"/>
   <bindingTables xmi:id="_fPLIkTDlEeiZ6PlqQZtl4w" bindingContext="_fPLIkDDlEeiZ6PlqQZtl4w"/>
