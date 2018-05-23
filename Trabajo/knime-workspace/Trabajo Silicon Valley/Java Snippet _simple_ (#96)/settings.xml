@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="expression" type="xstring" value="ArrayList&lt;String&gt; objetos = new ArrayList&lt;String&gt;(Arrays.asList($Items$));%%00010if(objetos.contains(&quot;Apple&quot;)){%%00010%%00009return 1;%%00010}else{%%00010%%00009return 0;%%00010}"/>
+<entry key="expression" type="xstring" value="ArrayList&lt;String&gt; objetos = new ArrayList&lt;String&gt;(Arrays.asList($Items$));%%00010if(objetos.contains(&quot;Apple&quot;) &amp;&amp; $Consequent$.equals(&quot;Black_or_African_American&quot;) ){%%00010%%00009return 1;%%00010}else{%%00010%%00009return 0;%%00010}"/>
 <entry key="header" type="xstring" value=""/>
 <entry key="replaced_column" type="xstring" value="Coincidencia"/>
 <entry key="append_column" type="xboolean" value="false"/>
@@ -39,12 +39,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 275, Cols: 7"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 1728, Cols: 7"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="4cf57482-8fc0-4c02-b774-cf635f0eb207"/>
+<entry key="file_store_id" type="xstring" value="9884dd6c-4b45-4454-9075-8f5f7d7aa0e9"/>
 </config>
 </config>

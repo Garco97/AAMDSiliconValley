@@ -40,7 +40,7 @@
           <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
           <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO8TDlEeiZ6PlqQZtl4w" selectedElement="_fTgO-jDlEeiZ6PlqQZtl4w" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO8jDlEeiZ6PlqQZtl4w" containerData="3000" selectedElement="_fTgO9TDlEeiZ6PlqQZtl4w">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO8jDlEeiZ6PlqQZtl4w" containerData="1371" selectedElement="_fTgO9TDlEeiZ6PlqQZtl4w">
               <children xsi:type="basic:PartStack" xmi:id="_fTgO8zDlEeiZ6PlqQZtl4w" elementId="org.knime.workbench.explorer.viewMStack" containerData="3848" selectedElement="_fTgO9DDlEeiZ6PlqQZtl4w">
                 <children xsi:type="advanced:Placeholder" xmi:id="_fTgO9DDlEeiZ6PlqQZtl4w" elementId="org.knime.workbench.explorer.view" ref="_fTYTIDDlEeiZ6PlqQZtl4w"/>
               </children>
@@ -55,14 +55,14 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO-jDlEeiZ6PlqQZtl4w" containerData="7000" selectedElement="_fTgO-zDlEeiZ6PlqQZtl4w">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO-zDlEeiZ6PlqQZtl4w" containerData="7000" selectedElement="_fTgO_DDlEeiZ6PlqQZtl4w" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO-jDlEeiZ6PlqQZtl4w" containerData="8629" selectedElement="_fTgO-zDlEeiZ6PlqQZtl4w">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO-zDlEeiZ6PlqQZtl4w" containerData="8690" selectedElement="_fTgO_DDlEeiZ6PlqQZtl4w" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_fTgO_DDlEeiZ6PlqQZtl4w" elementId="org.eclipse.ui.editorss" containerData="5050" ref="_fTUowDDlEeiZ6PlqQZtl4w"/>
                 <children xsi:type="basic:PartStack" xmi:id="_fTgO_TDlEeiZ6PlqQZtl4w" elementId="org.knime.workbench.helpviewMStack" toBeRendered="false" containerData="4950">
                   <children xsi:type="advanced:Placeholder" xmi:id="_fTgO_jDlEeiZ6PlqQZtl4w" elementId="org.knime.workbench.helpview" toBeRendered="false" ref="_fTdysDDlEeiZ6PlqQZtl4w"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO_zDlEeiZ6PlqQZtl4w" containerData="3000" selectedElement="_fTgPAjDlEeiZ6PlqQZtl4w" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_fTgO_zDlEeiZ6PlqQZtl4w" containerData="1310" selectedElement="_fTgPAjDlEeiZ6PlqQZtl4w" horizontal="true">
                 <children xsi:type="basic:PartStack" xmi:id="_fTgPADDlEeiZ6PlqQZtl4w" elementId="org.eclipse.ui.views.ContentOutlineMStack" containerData="3000" selectedElement="_fTgPATDlEeiZ6PlqQZtl4w">
                   <children xsi:type="advanced:Placeholder" xmi:id="_fTgPATDlEeiZ6PlqQZtl4w" elementId="org.eclipse.ui.views.ContentOutline" ref="_fTdLoDDlEeiZ6PlqQZtl4w"/>
                 </children>
@@ -396,7 +396,7 @@
     <bindings xmi:id="_excqwjDlEeiZ6PlqQZtl4w" keySequence="ALT+COMMAND+Q Q" command="_ewj5_TDlEeiZ6PlqQZtl4w">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_WnV_MFqqEeiC8N1SojcumQ" keySequence="COMMAND+CTRL+F" command="_eyE84jDlEeiZ6PlqQZtl4w"/>
+    <bindings xmi:id="_jMqU8F2fEeiGGpSbseRQuA" keySequence="COMMAND+CTRL+F" command="_eyE84jDlEeiZ6PlqQZtl4w"/>
   </bindingTables>
   <bindingTables xmi:id="_exMzITDlEeiZ6PlqQZtl4w" elementId="org.eclipse.debug.ui.memory.abstractasynctablerendering" bindingContext="_ewoyejDlEeiZ6PlqQZtl4w">
     <bindings xmi:id="_exMzIjDlEeiZ6PlqQZtl4w" keySequence="COMMAND+G" command="_ewg2vjDlEeiZ6PlqQZtl4w"/>
@@ -509,7 +509,7 @@
     <bindings xmi:id="_exa1lTDlEeiZ6PlqQZtl4w" keySequence="CTRL+SPACE" command="_ewgPoDDlEeiZ6PlqQZtl4w"/>
   </bindingTables>
   <bindingTables xmi:id="_eyFj8TDlEeiZ6PlqQZtl4w" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_ev-rKTDlEeiZ6PlqQZtl4w">
-    <bindings xmi:id="_WnWmQFqqEeiC8N1SojcumQ" keySequence="M1+W" command="_eyE85zDlEeiZ6PlqQZtl4w"/>
+    <bindings xmi:id="_jMq8AF2fEeiGGpSbseRQuA" keySequence="M1+W" command="_eyE85zDlEeiZ6PlqQZtl4w"/>
   </bindingTables>
   <bindingTables xmi:id="_fPKhgTDlEeiZ6PlqQZtl4w" bindingContext="_fPKhgDDlEeiZ6PlqQZtl4w"/>
   <bindingTables xmi:id="_fPLIkTDlEeiZ6PlqQZtl4w" bindingContext="_fPLIkDDlEeiZ6PlqQZtl4w"/>
@@ -1245,7 +1245,7 @@
   <addons xmi:id="_ev-rMjDlEeiZ6PlqQZtl4w" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_ev-rMzDlEeiZ6PlqQZtl4w" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_ewGm8DDlEeiZ6PlqQZtl4w" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_jMQsUV2fEeiGGpSbseRQuA" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <addons xmi:id="_eyDuwDDlEeiZ6PlqQZtl4w" elementId="org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler"/>
   <categories xmi:id="_ewdzUDDlEeiZ6PlqQZtl4w" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>

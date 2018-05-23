@@ -150,9 +150,9 @@
             },
             {
                 "id":"org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter",
-                "nrexecs":525,
+                "nrexecs":605,
                 "nrfails":0,
-                "exectime":701,
+                "exectime":922,
                 "nrcreated":8,
                 "successor":"org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter"
             },
@@ -166,9 +166,9 @@
             },
             {
                 "id":"org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeFactory#Column Aggregator",
-                "nrexecs":392,
+                "nrexecs":393,
                 "nrfails":4,
-                "exectime":16070,
+                "exectime":18396,
                 "nrcreated":3,
                 "successor":"org.knime.base.node.mine.subgroupminer.SubgroupMinerFactory2#Association Rule Learner"
             },
@@ -182,17 +182,17 @@
             },
             {
                 "id":"org.knime.ext.sun.nodes.script.JavaScriptingNodeFactory#Java Snippet (simple)",
-                "nrexecs":3159,
+                "nrexecs":3237,
                 "nrfails":2,
-                "exectime":47266,
+                "exectime":54793,
                 "nrcreated":7,
                 "successor":"org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter"
             },
             {
                 "id":"org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter",
-                "nrexecs":187,
+                "nrexecs":269,
                 "nrfails":0,
-                "exectime":2465,
+                "exectime":4043,
                 "nrcreated":12,
                 "successor":"org.knime.base.node.meta.looper.LoopStartCountNodeFactory#Counting Loop Start"
             },
@@ -350,17 +350,17 @@
             },
             {
                 "id":"org.knime.base.node.io.csvreader.CSVReaderNodeFactory#CSV Reader",
-                "nrexecs":17,
+                "nrexecs":19,
                 "nrfails":3,
-                "exectime":90411,
+                "exectime":100774,
                 "nrcreated":3,
                 "successor":"org.knime.base.node.preproc.unpivot2.Unpivot2NodeFactory#Unpivoting"
             },
             {
                 "id":"org.knime.base.node.mine.subgroupminer.SubgroupMinerFactory2#Association Rule Learner",
-                "nrexecs":65,
+                "nrexecs":73,
                 "nrfails":0,
-                "exectime":153407,
+                "exectime":189695,
                 "nrcreated":1,
                 "successor":"org.knime.ext.sun.nodes.script.JavaScriptingNodeFactory#Java Snippet (simple)"
             },
@@ -374,9 +374,9 @@
             },
             {
                 "id":"org.knime.base.node.preproc.cellsplit.CellSplitterNodeFactory#Cell Splitter",
-                "nrexecs":36,
+                "nrexecs":37,
                 "nrfails":0,
-                "exectime":39593,
+                "exectime":45211,
                 "nrcreated":0,
                 "successor":"org.knime.base.node.preproc.rename.RenameNodeFactory#Column Rename"
             },
@@ -430,17 +430,17 @@
             },
             {
                 "id":"org.knime.base.node.preproc.autobinner3.AutoBinnerLearnNodeFactory#Auto-Binner",
-                "nrexecs":16,
+                "nrexecs":17,
                 "nrfails":3,
-                "exectime":421,
+                "exectime":422,
                 "nrcreated":1,
                 "successor":"org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeFactory#Column Aggregator"
             },
             {
                 "id":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer",
-                "nrexecs":2,
+                "nrexecs":3,
                 "nrfails":0,
-                "exectime":324,
+                "exectime":382,
                 "nrcreated":2,
                 "successor":"n/a"
             },
@@ -494,11 +494,11 @@
         "wrappedNodes":{
         }
     },
-    "uptime":2609190,
+    "uptime":2960288,
     "workflowsOpened":40,
     "remoteWorkflowsOpened":1,
-    "launches":26,
-    "timeSinceLastStart":3106078,
+    "launches":29,
+    "timeSinceLastStart":11596362,
     "crashes":0,
     "properlyShutDown":true
 }

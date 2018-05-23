@@ -20,7 +20,7 @@
 <entry key="lineEndingMode" type="xstring" value="SYST"/>
 <entry key="charSet" type="xstring" isnull="true" value=""/>
 <entry key="filename" type="xstring" value="/Users/diego/Dropbox/Universidad/3º/Segundo Cuatrimestre/Mineria de Datos/Trabajo/silicon-valley-diversity-data/SiliconPre.csv"/>
-<entry key="fileOverwritePolicy" type="xstring" value="Abort"/>
+<entry key="fileOverwritePolicy" type="xstring" value="Overwrite"/>
 <entry key="skipWriteColHeaderOnAppend" type="xboolean" value="false"/>
 <entry key="commentBegin" type="xstring" value=""/>
 <entry key="commentEnd" type="xstring" value=""/>
@@ -49,6 +49,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="e1cb4c84-a02a-4e8b-80ea-f58445428bf9"/>
+<entry key="file_store_id" type="xstring" value="8a411642-598c-4f60-8df0-a78d83bd1523"/>
 </config>
 </config>
